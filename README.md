@@ -1,4 +1,4 @@
-###  Oiie, eu sou o Junior! um estudante de Ciência da Computação em busca de me descobrir nesse incrivel mundo da tecnologia !
+###  Oiie, eu sou o Junior, um estudante de Ciência da Computação em busca de me descobrir nesse incrivel mundo da tecnologia !
 
 ### Estatísticas
 <div>
